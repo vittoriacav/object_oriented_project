@@ -1,5 +1,4 @@
 #Software Application Project (Genomics course)
-#Cavallari, Cavicchioli, Ceneri
 
 #PART 1 
 #a.Here we read and create the DataFrame (Reader class) 
