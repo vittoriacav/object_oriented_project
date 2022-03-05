@@ -1,5 +1,4 @@
 #Software Application Project (Genomics course)
-#Cavallari, Cavicchioli, Ceneri
 
 #PART 2
 #Here we have a parent Objective class and 5 additional child classes. 
