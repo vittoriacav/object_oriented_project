@@ -1,5 +1,4 @@
 #Software Application Project (Genomics course)
-#Cavallari, Cavicchioli, Ceneri
 
 #PART 3
 #Here we have the Web-based user interface, where he can perform actions ad analyze the dataset
